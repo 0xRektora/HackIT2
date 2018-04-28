@@ -1,0 +1,7 @@
+poly_point_isect.py
+setup.py
+isect_segments_bentley_ottmann.egg-info/PKG-INFO
+isect_segments_bentley_ottmann.egg-info/SOURCES.txt
+isect_segments_bentley_ottmann.egg-info/dependency_links.txt
+isect_segments_bentley_ottmann.egg-info/top_level.txt
+isect_segments_bentley_ottmann.egg-info/zip-safe

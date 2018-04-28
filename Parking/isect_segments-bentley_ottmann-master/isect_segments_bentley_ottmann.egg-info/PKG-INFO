@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: isect-segments-bentley-ottmann
+Version: 0.1.0
+Summary: BentleyOttmann sweep-line implementation
+Home-page: https://github.com/ideasman42/isect_segments-bentley_ottmann
+Author: Campbell Barton
+Author-email: ideasman42@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
